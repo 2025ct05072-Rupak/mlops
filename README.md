@@ -41,7 +41,7 @@ This is an educational prototype, not a clinically validated diagnostic system. 
 GitHub URL: [https://github.com/2025ct05072-Rupak/mlops]
 
 ## 13. Video
-Video URL: []
+Video URL: [https://wilpbitspilaniacin0-my.sharepoint.com/:v:/g/personal/2025ct05072_wilp_bits-pilani_ac_in/IQBvfUbGTlgcTot0Gl_HI20PAYs0I9Rn0eBPeBQZtVU0rNc?e=VMrSBb]
 
 ## 14. Reproduction
 Provide Python version, installation commands, dataset acquisition command, test command, training command, and API startup command.
