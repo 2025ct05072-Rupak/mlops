@@ -38,7 +38,10 @@ Describe request logging, latency metrics, Prometheus scraping, and any Grafana 
 This is an educational prototype, not a clinically validated diagnostic system. Its predictions must not be used for medical decisions.
 
 ## 12. Repository
-GitHub URL: [Insert your repository URL]
+GitHub URL: [https://github.com/2025ct05072-Rupak/mlops]
 
-## 13. Reproduction
+## 13. Video
+Video URL: []
+
+## 14. Reproduction
 Provide Python version, installation commands, dataset acquisition command, test command, training command, and API startup command.
